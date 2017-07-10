@@ -1,0 +1,202 @@
+ps -aef | grep elasticsearch
+
+cd /opt/meridian
+
+
+cd elasticserach
+
+
+172.16.2.174:9200 ---port no 
+admin
+FixStream
+
+vi logger.yml
+
+vi logging.yml---->logger-info/off/error
+
+
+service elastic search restart
+
+-----------------------------------------------------------------------------------------------------------------------------
+ cd /opt/meridian/kafka
+
+
+kafka log 
+
+ls-af
+
+
+cd..
+
+ls-af
+
+cd kafka
+
+
+cd config
+
+
+
+ps -aef | grep agent
+
+ps -aef | grep excutor
+
+service meridian status
+
+
+
+
+vi log 4j prperties----- controlle garbage collector for kafka
+
+:%s/info/off/
+
+tail -f kafka gc.log
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+strom ui 172.16.2.174:8099-------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+service meridian -dc restart
+
+
+
+netstata -tuanlp | grep 5555  ///
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+temporary file
+
+cd /opt/meridian
+
+cd meridian report /
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ps -aef | grep executer | wc -l
+
+ps -aef | grep scheduler | wc -l
+
+ps -aef | grep pecan | wc -l
+
+ps -aef | grep uswagi| wc -l
+
+
+who -rH
+
+checkconfig --list |grep meridian
+
+
+ps -ef | grep meridian
+service meridian-dc-executer-status
+
+netstat -tuanlp | grep port 
+
+
+cd/opt/meridian/log
+
+
+tail -f meridian.log
+
+mysql -u root -p
+
+
+
+how to show performance cpu
+sh interfaces
+sh iterfaces g/0 or 1 .......
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+reporter = sudhansu.kuila and affectedVersion= 5.1 order by created DESC
+
+reporter = sudhansu.kuila and affectedVersion= 5.1 AND status=Resolved order by created DESC
+
+show process cpu -usage sort
+
+show processes  memory
+
+3008-meridian
+
+url 
+
+https://incometaxindiaefiling.gov.in/e-Filing/Services/LinkAadhaarPrelogin.html
+
+9397-gateway
+
+
+
+bacand 
+
+NCE-sendmail mail id>>enter>>msg>>ctrl d  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ * How to check appliction services and flow between the appliction in backend
+ 
+ 1) ps -ef | grep apache ---- using this command check service on that device
+
+ 2)  netstat -tuanlp | grep 182.1.91.16 ----using this command flow between that devices in backend
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+pu disvery 2.49  or 2.93  root /Fixstream
+
+in 2.49-----use
+
+email config
+
+netstat tunlp | grep 25
+
+ps -aef | grep 
+
+service senmail stop 
+
+service senmail start
+
+checkconfig sendmail --list 
+
+who -rH
+
+checkconfig sendmail on
+
+service senmail status
+
+tail -f /var/log/maillog
+
+-----------------------------------------------------------------------------------------
+in 2.93 used......
+mail testuser1@testdev.in.fixstream.com
+
+mail -s testmail  mssage ' testuser1@testdev.in.fixstream.com
+
+su -testuser1
+mail  
+ ctrl + d
+
+
+snap-curator-20170705115046.dat
+
+
+
+ https://www.sarkariexaam.com/mseb-recruitment-www-mahadiscom-in-online-application/58467
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+solaris 
+prtcnf for solaris
+
+prtdai
+
+vmstat
+
+netstat | mdb -k---check for memory
+
+
+snmp is a standard portal used all device
+
+
+
+
+
+
+
